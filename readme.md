@@ -50,7 +50,7 @@ sudo fm license
 | ローカル | `system` | このMac上 |
 | Private Cloud Computing | `pcc` | AppleのPrivate Cloud Compute |
 
-macOS 27のベータ版など、`pcc`に対応していない`fm`では利用不可エラーが表示されます。
+macOS 27のBeta3以降など、`pcc`に対応していない`fm`では利用不可エラーが表示されます。
 
 ## 保存されるデータ
 
